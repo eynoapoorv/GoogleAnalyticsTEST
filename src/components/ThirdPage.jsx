@@ -3,9 +3,7 @@ import Button from './Button'
 
 const ThirdPage = () => {
     return <>
-
         <div align="center">
-
             <h1 >
                 THIRD PAGE
             </h1>

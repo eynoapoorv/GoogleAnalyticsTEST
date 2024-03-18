@@ -1,10 +1,7 @@
 import React from 'react'
 import Button from './Button'
-
-
 const FirstPage = () => {
     return <>
-
         <div align="center">
             <h1 >
                 FIRST PAGE

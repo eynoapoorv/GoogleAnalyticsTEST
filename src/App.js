@@ -6,16 +6,12 @@ import SecondPage from './components/SecondPage';
 import ThirdPage from './components/ThirdPage';
 import FourthPage from './components/FourthPage';
 
-
-
 function App() {
   return (
     <>
       <Routes>
-
         <Route>
-          
-
+        
           <Route path="/" element={<FirstPage />} />
           <Route path="/secondPage" element={<SecondPage />} />
           <Route path="/thirdPage" element={<ThirdPage />} />

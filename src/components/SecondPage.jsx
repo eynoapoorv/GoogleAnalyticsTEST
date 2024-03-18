@@ -3,9 +3,7 @@ import Button from './Button'
 
 const SecondPage = () => {
     return <>
-
         <div align="center">
-
             <h1 >
                 SECOND PAGE
             </h1>
